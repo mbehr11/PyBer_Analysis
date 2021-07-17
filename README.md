@@ -33,17 +33,17 @@ From this set of data, we can see that the Urban areas request more rides means 
 
 3.	Average fare by driver. 
 This had a very interesting outcome because when you divide the total fare by city and the total drivers by city, the average fare goes up by almost double than the average fare numbers due to the number of drivers in the different areas. For instance, if you compare rural fares by ride and rural fate by driver it goes from $34 to $55. 
-#####![alttext](https://github.com/mbehr11/PyBer_Analysis/blob/main/Resources/Avg_fare_by_ride.PNG) #####
+##### ![alttext](https://github.com/mbehr11/PyBer_Analysis/blob/main/Resources/Avg_fare_by_ride.PNG) #####
 
-#####![alttext](https://github.com/mbehr11/PyBer_Analysis/blob/main/Resources/Avg_fare_by_driver.PNG) #####
+##### ![alttext](https://github.com/mbehr11/PyBer_Analysis/blob/main/Resources/Avg_fare_by_driver.PNG) #####
 
 4.	Created a new Dataframe looking at the weekly fares by type of city. 
 
-#####![alttext](https://github.com/mbehr11/PyBer_Analysis/blob/main/Resources/Weekly_fare.PNG) #####
+##### ![alttext](https://github.com/mbehr11/PyBer_Analysis/blob/main/Resources/Weekly_fare.PNG) #####
 
 5.	Created a plot of the total fare by city type. As we can see urban by far had the highest fares with frequent peaks in price verses suburban or rural who had a steady line with little fluctuation in price. 
 
-#####![alttext](https://github.com/mbehr11/PyBer_Analysis/blob/main/analysis/Challenge_fare_summary.png) #####
+##### ![alttext](https://github.com/mbehr11/PyBer_Analysis/blob/main/analysis/Challenge_fare_summary.png) #####
 
 
 ## PyBer Analysis Summary:
