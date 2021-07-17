@@ -29,7 +29,7 @@ As you can see urban rides were significantly more frequent than Suburban or rur
 2.	Total drivers by city type. 
 From this set of data, we can see that the Urban areas request more rides means that more drivers are hanging around those areas as they have more chances of someone requesting a ride with those numbers at 2,405.
 
-#####![alttext](https://github.com/mbehr11/PyBer_Analysis/blob/main/Resources/Total_drivers_by_city.PNG) #####
+##### ![alttext](https://github.com/mbehr11/PyBer_Analysis/blob/main/Resources/Total_drivers_by_city.PNG) #####
 
 3.	Average fare by driver. 
 This had a very interesting outcome because when you divide the total fare by city and the total drivers by city, the average fare goes up by almost double than the average fare numbers due to the number of drivers in the different areas. For instance, if you compare rural fares by ride and rural fate by driver it goes from $34 to $55. 
