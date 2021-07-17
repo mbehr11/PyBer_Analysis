@@ -25,6 +25,7 @@ After working with the Maria and the school board to look at the academic grades
 1.	Total rides by city. 
 As you can see urban rides were significantly more frequent than Suburban or rural numbers at 1,625.
 ##### ![alttext]( https://github.com/mbehr11/PyBer_Analysis/blob/main/Resources/Total_rides_by_city.PNG) #####
+
 2.	Total drivers by city type. 
 From this set of data, we can see that the Urban areas request more rides means that more drivers are hanging around those areas as they have more chances of someone requesting a ride with those numbers at 2,405.
 
@@ -37,9 +38,12 @@ This had a very interesting outcome because when you divide the total fare by ci
 #####![alttext](https://github.com/mbehr11/PyBer_Analysis/blob/main/Resources/Avg_fare_by_driver.PNG) #####
 
 4.	Created a new Dataframe looking at the weekly fares by type of city. 
+
 #####![alttext](https://github.com/mbehr11/PyBer_Analysis/blob/main/Resources/Weekly_fare.PNG) #####
+
 5.	Created a plot of the total fare by city type. As we can see urban by far had the highest fares with frequent peaks in price verses suburban or rural who had a steady line with little fluctuation in price. 
-6.	#####![alttext](https://github.com/mbehr11/PyBer_Analysis/blob/main/analysis/Challenge_fare_summary.png) #####
+
+#####![alttext](https://github.com/mbehr11/PyBer_Analysis/blob/main/analysis/Challenge_fare_summary.png) #####
 
 
 ## PyBer Analysis Summary:
